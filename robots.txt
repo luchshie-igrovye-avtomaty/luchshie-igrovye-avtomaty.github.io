@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: luchshie-igrovye-avtomaty.github.io
+Sitemap: https://luchshie-igrovye-avtomaty.github.io/sitemap.xml
